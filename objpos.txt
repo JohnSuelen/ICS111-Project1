@@ -1,0 +1,5 @@
+diaphragm.png 900 450
+condom.png 250 350
+ring.png 1300 600
+pill.png 625 725
+iud.png 75 700
